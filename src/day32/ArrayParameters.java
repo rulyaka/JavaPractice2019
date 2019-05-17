@@ -8,7 +8,7 @@ public class ArrayParameters {
 		// TODO Auto-generated method stub
 		int myArraay[] = { 44, 44, 34, 2342, 432 };
 		printArray(myArraay);
-		printArray(new int[] { 33, 23, 2323 });
+		 
 		int[] myNums = { 3, 3, 3, 22, 2, 2, 2 };
 		int[] one = { 10, 2, 22 };// numsSmall
 		int[] two = { 3, 1,2,2,2,2 }; // numsLarge
