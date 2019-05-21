@@ -18,6 +18,6 @@ public class Assigment178 {
 		  }//end mergR
 		  public static void main(String[] args) {
 			Scanner scan=new Scanner(System.in);
-			mergR(new int[] { 33, 23, 2323 });
+			
 		}
 }

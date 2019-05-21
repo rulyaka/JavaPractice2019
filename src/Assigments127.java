@@ -17,9 +17,7 @@ public class Assigments127 {
 	        arr[i][j]=inp.nextInt();
 	      }//end for cols
 	      int[] max = arr[0];
-	      for (i = 1; i < arr.length; i++) 
-	             if (arr[i] > max) 
-	                 max = arr[i]; 
+	     
 	        
 	        System.out.println(Arrays.toString(max));
               }

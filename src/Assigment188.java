@@ -14,8 +14,7 @@ public class Assigment188 {
 	public static void main(String[] args) {
 		
 		
-		
-		removeAll();
+
 		
 	}
 }

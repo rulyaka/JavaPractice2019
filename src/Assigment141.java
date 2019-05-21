@@ -14,11 +14,6 @@ public class Assigment141 {
 		    }
 		  }//end cube
 		  
-		  public static void main(String[] args) {
-		    
-		    cube();
-		   
 		
-	}
 
 }

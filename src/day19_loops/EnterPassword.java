@@ -1,4 +1,4 @@
-0package day19_loops;
+package day19_loops;
 
 import java.util.*;
 

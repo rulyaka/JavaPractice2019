@@ -1,9 +1,9 @@
 
 public class CodingBatArrays {
 
-	public static void main(String[] args) {
+	public static int[] main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] a; int[] b;
+		int[] a = null; int[] b = null;
 		
 		
 		int[] sumA={a[0]+a[1]};

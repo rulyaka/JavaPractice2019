@@ -6,7 +6,7 @@ public class CaughtSpeeding {
 	}
 	
 	public boolean specialEleven(int n) {
-		  if(n*11%==0){
+		  if(n%11==0){
 		  return true;
 		  }
 		  return false;

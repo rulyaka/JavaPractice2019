@@ -42,7 +42,7 @@ public class CustomListMethod {
 	strNums.add("34");
 	strNums.add("53");
 	strNums.add("44");
-	List<String> converted = converToIntList(strNums);
+	List<Integer> converted = convertToIntList(strNums);
 	System.out.println(converted);
 		
 	}

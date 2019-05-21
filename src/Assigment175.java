@@ -3,10 +3,9 @@ public class Assigment175 {
 
 	public static String lameDb(String db, String op,String id,String data)
 	  {
-		 String[] bnew = db.split("#");
-	    return (bnew+"#"+id+data);
-	    return(bnew+id+data+db.substring(-1));
-	    return(bnew);
+		return data;
+	
+	 
 	    
 	    
 	    

@@ -51,7 +51,7 @@ public class IndexOf {
 	}
 	
 	public String left2(String str) {
-		  return str.length()>2 ? str.substring(2,str.substring(0,2)) : str;
+		  return str.length()>2 ? str.substring(2) : str;
 		}
 
 }

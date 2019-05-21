@@ -8,13 +8,8 @@ public class SubString {
 
 		System.out.println(sentence.substring(5, 11));// String
 		System.out.println(sentence.substring(7, 11));// ring
-		//System.out.println(sentence.substring(10, 5));// exception....
+		// System.out.println(sentence.substring(10, 5));// exception....
 		String a, b;
-		
-		if(a.length() > b.length()) {
-		    return b+a+b;
-		  }else if(b.length() > a.length()){
-		    return a+b+b;
-		  }
+
 	}
 }

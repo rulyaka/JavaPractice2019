@@ -2,10 +2,10 @@ package day41;
 
 public class Car {
 
-	String make;
-	String model;
+	public String make;
+	public String model;
 	int currentSpeed;
-	String color;
+	public String color;
 
 	public void printCarInfo() {
 		String info = "make[" + make + "], model[" + model + "], color[" + color + "], currentSpeed[" + currentSpeed;

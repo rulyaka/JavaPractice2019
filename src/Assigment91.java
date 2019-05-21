@@ -5,13 +5,10 @@ public class Assigment91 {
 	    String str = scan.nextLine();
 	    int j=1;
 	    int count = 0;
-	  do  {
-		  System.out.println("count: "+count);
-			
-			j++;
-			}while(str="java");
-		System.out.println();
-	}
+	
+	  
+	
 		
-}	
+	}
+}
 		

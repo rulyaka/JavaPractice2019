@@ -3,7 +3,7 @@ package ClasswithVasya;
 import java.util.Arrays;
 
 public class SuperHero {
-	public String[] superheroes = { "Superman", "Iron man", "Wonder woman", "Hulk", "Thor", "Hellboy", "Flash",
+	public static String[] superheroes = { "Superman", "Iron man", "Wonder woman", "Hulk", "Thor", "Hellboy", "Flash",
 			"Captain AMerica", "Ant Man", "Aquaman" };
 	public static void main(String[] args) {
 		String[] arr1 = { "wefeqfwef" }; // ONE WAY OF DECLARATION OF STRING
@@ -18,7 +18,7 @@ public class SuperHero {
 
 		
 
-		// how many supe heroes we have with the space with in the name
+		// how many super heroes we have with the space with in the name
 		// Print all of them and their count
 		int count = 0;
 		String listOfHeroesWithSpace = "";

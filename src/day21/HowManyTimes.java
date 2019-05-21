@@ -25,7 +25,7 @@ public class HowManyTimes {
 			totalPrice += itemPrice;
 
 		}
-		if()
+	
 
 		System.out.println("Your items " + items);
 		System.out.println("Your total price: $" + totalPrice);
